@@ -1,39 +1,9 @@
 ### NOTICE ###
-# By using all OR ANY PART of this HED file you MUST follow our license at https://github.com/DYVAUX/nnsvs-english-support/blob/main/LICENSE.md
+# By using all OR ANY PART of this HED file you MUST follow our license at https://github.com/DYVAUX/nnsvs-romance-language-support/blob/main/LICENSE.md
 # This includes using parts of our work in yours. If you have questions about the license please contact us.
 # We should not have to include this notice in our files but bad actors had forced our hand.
 
 #universal HED for Spanish, Portugese, Italian, French, etc
-#in_dim: 332(duration/timelag), 328(acoustic)
-#in_rest_idx: 22
-#in_lfx0_idx: 283
-
-#ENUNU specific flags.
-
-#tone flags
-QS      "falsetto"                               {*^F_*}
-QS      "head voice"                             {*^H_*}
-QS      "soft"                                   {*^SF_*}
-QS      "strong"                                 {*^ST_*}
-QS      "open_wide_vowel"                        {*^OPN_*}
-QS      "closed_narrow_vowel"                    {*^CLS_*}
-QS      "whisper_devoiced"                       {*^W_*}
-QS      "false_cord_fry_scream"                  {*^S_*}
-QS      "guttural_scream_growl"                  {*^G_*}
-QS      "bright_resonance"                       {*^B_*}
-QS      "dark_resonance"                         {*^D_*}
-QS      "young_higher_formant"                   {*^Y_*}
-QS      "older_lower_formant"                    {*^O_*}
-QS      "thin"                                   {*^T_*}
-QS      "fry_rattle"                             {*^R_*}
-#emotion flags
-QS      "happy"                                  {*^HPY_*}
-QS      "sad"                                    {*^SAD_*}
-QS      "mad"                                    {*^MAD_*}
-#custom flags
-QS      "additional_1"                           {*^1_*}
-QS      "additional_2"                           {*^2_*}
-QS      "additional_3"                           {*^3_*}
 
 #Phoneme Lanauge Definitions
 
