@@ -2,7 +2,7 @@ As an archived project, NNSVS Romance Language Support has had the license repla
 
 By using all OR ANY PART of our projects you MUST credit us (and any other parties) and link back to our license. This also includes but is not limited to referencing pieces our work to build yours.
 
-Note that the new license only applies to the current version of the roamcne support presented here. All prior copies/version follow the CC BY-NC 4.0 license.
+Note that the new license only applies to the current version of the romance support presented here. All prior copies/version follow the CC BY-NC 4.0 license.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NNSVS Romance Language Support</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DYVAUX/nnsvs-romance-language-support" property="cc:attributionName" rel="cc:attributionURL">AUX Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
