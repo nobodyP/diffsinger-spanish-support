@@ -1,6 +1,6 @@
 Converted from spreadsheet, missing notes and formatting. Use separate language references if/as available.
 
-| HED PHONE        | x-sampa (maybe)  | Spanish         | BR Portuguese | EU Portuguese | Catalan       | Valencian    | Italian        | Central-Italian | Tuscan | Sicilian         | Ladin        | French       | Belgian French | Quebec French | Ontario French | "Arpitan"     |
+| HED PHONE        | x-sampa/IPA      | Spanish         | BR Portuguese | EU Portuguese | Catalan       | Valencian    | Italian        | Central-Italian | Tuscan | Sicilian         | Ladin        | French       | Belgian French | Quebec French | Ontario French | "Arpitan"     |
 | ---------------- | ---------------- | --------------- | ------------- | ------------- | ------------- | ------------ | -------------- | --------------- | ------ | ---------------- | ------------ | ------------ | -------------- | ------------- | -------------- | ------------- |
 |                  |                  |                 |               |               |               |              |                |                 |        |                  |              |              |                |               |                | not supported |
 | a                |                  | yes             | yes           | yes           | yes           | yes          | yes            |                 |        | yes              | yes          | yes          | yes            | yes           | yes            | yes           |
